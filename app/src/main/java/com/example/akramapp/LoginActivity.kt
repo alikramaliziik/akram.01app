@@ -1,4 +1,4 @@
-package com.example.elderly_care
+package com.example.akramapp
 
 import android.os.Bundle
 import android.util.Patterns
